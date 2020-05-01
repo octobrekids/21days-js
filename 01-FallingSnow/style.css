@@ -1,0 +1,5 @@
+body{
+    background-image: url('./background.jpg');
+    /* cover full screen */
+    background-size: cover;
+}
